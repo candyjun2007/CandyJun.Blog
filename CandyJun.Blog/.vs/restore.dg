@@ -1,0 +1,11 @@
+#:H:\Workspace\CandyJun.Blog\CandyJun.Blog\src\CandyJun.Blog.Dal\CandyJun.Blog.Dal.xproj
+H:\Workspace\CandyJun.Blog\CandyJun.Blog\src\CandyJun.Blog.Dal\CandyJun.Blog.Dal.xproj|H:\Workspace\CandyJun.Blog\CandyJun.Blog\src\CandyJun.Blog.Model\CandyJun.Blog.Model.xproj
+#:H:\Workspace\CandyJun.Blog\CandyJun.Blog\src\CandyJun.Blog\CandyJun.Blog.xproj
+H:\Workspace\CandyJun.Blog\CandyJun.Blog\src\CandyJun.Blog\CandyJun.Blog.xproj|H:\Workspace\CandyJun.Blog\CandyJun.Blog\src\CandyJun.Blog.Bll\CandyJun.Blog.Bll.xproj
+H:\Workspace\CandyJun.Blog\CandyJun.Blog\src\CandyJun.Blog.Bll\CandyJun.Blog.Bll.xproj|H:\Workspace\CandyJun.Blog\CandyJun.Blog\src\CandyJun.Blog.Dal\CandyJun.Blog.Dal.xproj
+H:\Workspace\CandyJun.Blog\CandyJun.Blog\src\CandyJun.Blog.Bll\CandyJun.Blog.Bll.xproj|H:\Workspace\CandyJun.Blog\CandyJun.Blog\src\CandyJun.Blog.Model\CandyJun.Blog.Model.xproj
+H:\Workspace\CandyJun.Blog\CandyJun.Blog\src\CandyJun.Blog.Dal\CandyJun.Blog.Dal.xproj|H:\Workspace\CandyJun.Blog\CandyJun.Blog\src\CandyJun.Blog.Model\CandyJun.Blog.Model.xproj
+#:H:\Workspace\CandyJun.Blog\CandyJun.Blog\src\CandyJun.Blog.Bll\CandyJun.Blog.Bll.xproj
+H:\Workspace\CandyJun.Blog\CandyJun.Blog\src\CandyJun.Blog.Bll\CandyJun.Blog.Bll.xproj|H:\Workspace\CandyJun.Blog\CandyJun.Blog\src\CandyJun.Blog.Dal\CandyJun.Blog.Dal.xproj
+H:\Workspace\CandyJun.Blog\CandyJun.Blog\src\CandyJun.Blog.Bll\CandyJun.Blog.Bll.xproj|H:\Workspace\CandyJun.Blog\CandyJun.Blog\src\CandyJun.Blog.Model\CandyJun.Blog.Model.xproj
+H:\Workspace\CandyJun.Blog\CandyJun.Blog\src\CandyJun.Blog.Dal\CandyJun.Blog.Dal.xproj|H:\Workspace\CandyJun.Blog\CandyJun.Blog\src\CandyJun.Blog.Model\CandyJun.Blog.Model.xproj

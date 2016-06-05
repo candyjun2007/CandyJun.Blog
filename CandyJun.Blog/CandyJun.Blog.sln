@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2DD802FB-C97A-45CE-AF79-6E4ACD839FED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DDDFE147-5629-4AE2-9077-ECF686E2E915}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "CandyJun.Blog", "src\CandyJun.Blog\CandyJun.Blog.xproj", "{D0320DC7-A53B-42D9-A289-D00C5DA75266}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "CandyJun.Blog.Bll", "src\CandyJun.Blog.Bll\CandyJun.Blog.Bll.xproj", "{30DA4901-D748-4590-84ED-1BC8CF16B901}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "CandyJun.Blog.Dal", "src\CandyJun.Blog.Dal\CandyJun.Blog.Dal.xproj", "{054AB628-DD7E-4F9E-89EB-EF65055E23EA}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "CandyJun.Blog.Model", "src\CandyJun.Blog.Model\CandyJun.Blog.Model.xproj", "{5372D971-0872-48A2-BC24-AF1CD8051BF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0320DC7-A53B-42D9-A289-D00C5DA75266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0320DC7-A53B-42D9-A289-D00C5DA75266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0320DC7-A53B-42D9-A289-D00C5DA75266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0320DC7-A53B-42D9-A289-D00C5DA75266}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30DA4901-D748-4590-84ED-1BC8CF16B901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30DA4901-D748-4590-84ED-1BC8CF16B901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30DA4901-D748-4590-84ED-1BC8CF16B901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30DA4901-D748-4590-84ED-1BC8CF16B901}.Release|Any CPU.Build.0 = Release|Any CPU
+		{054AB628-DD7E-4F9E-89EB-EF65055E23EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{054AB628-DD7E-4F9E-89EB-EF65055E23EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{054AB628-DD7E-4F9E-89EB-EF65055E23EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{054AB628-DD7E-4F9E-89EB-EF65055E23EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5372D971-0872-48A2-BC24-AF1CD8051BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5372D971-0872-48A2-BC24-AF1CD8051BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5372D971-0872-48A2-BC24-AF1CD8051BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5372D971-0872-48A2-BC24-AF1CD8051BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D0320DC7-A53B-42D9-A289-D00C5DA75266} = {2DD802FB-C97A-45CE-AF79-6E4ACD839FED}
+		{30DA4901-D748-4590-84ED-1BC8CF16B901} = {2DD802FB-C97A-45CE-AF79-6E4ACD839FED}
+		{054AB628-DD7E-4F9E-89EB-EF65055E23EA} = {2DD802FB-C97A-45CE-AF79-6E4ACD839FED}
+		{5372D971-0872-48A2-BC24-AF1CD8051BF0} = {2DD802FB-C97A-45CE-AF79-6E4ACD839FED}
+	EndGlobalSection
+EndGlobal
