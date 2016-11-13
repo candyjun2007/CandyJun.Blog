@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace CandyJun.Blog.Model
 {
-    public class Commentmeta
+    public class CommentMeta
     {
         public long meta_id { get; set; }
         public long comment_id { get; set; }
@@ -13,7 +13,7 @@ namespace CandyJun.Blog.Model
         public string meta_value { get; set; }
     }
 
-    public class wp_commentmeta : Commentmeta
+    public class wp_commentmeta : CommentMeta
     {
 
     }
